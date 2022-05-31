@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5p3ZTXjGytm" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">SUICIDES – 
+THE COLLATERAL DAMAGE</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="SUICIDES_–_
+THE_COLLATERAL_DAMAGE_ORG">
+    <organization identifier="SUICIDES_–_
+THE_COLLATERAL_DAMAGE_ORG">
+      <title>SUICIDES – 
+THE COLLATERAL DAMAGE</title>
+      <item identifier="SUICIDES_–_
+THE_COLLATERAL_DAMAGE_SCO" isvisible="true" identifierref="__5p3ZTXjGytm_RES">
+        <title>SUICIDES – 
+THE COLLATERAL DAMAGE</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5p3ZTXjGytm_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6YwH4Vpie4C_44100_48_0.mp3" />
+      <file href="story_content/68upbcKoj2s_44100_48_0.mp3" />
+      <file href="story_content/video_6iZyJAchJBj_22_48_960x540.mp4" />
+      <file href="mobile/poster_6IZt3jfmC4A_video_6iZyJAchJBj_22_48_960x540.jpg" />
+      <file href="story_content/6QPORJqX6b4_44100_48_0.mp3" />
+      <file href="story_content/6G6L6kfIQeg_44100_48_0.mp3" />
+      <file href="story_content/6hHHVGi3qbq_44100_48_0.mp3" />
+      <file href="story_content/6RcG9Rq1Nv6_44100_48_0.mp3" />
+      <file href="mobile/5XIYwHGcZ1T.png" />
+      <file href="mobile/5XCJtqIOnTR_XY.png" />
+      <file href="story_content/5ba2DUinhNm_44100_48_0.mp3" />
+      <file href="story_content/5hG006qrSWa_44100_48_0.mp3" />
+      <file href="story_content/6d4QBPtlAtn_44100_48_0.mp3" />
+      <file href="story_content/6F3lS2dcyhF_44100_48_0.mp3" />
+      <file href="mobile/5hW2qTECd5H.png" />
+      <file href="mobile/5m6rq2lhfll.png" />
+      <file href="mobile/6pqERLIzYwi.png" />
+      <file href="story_content/5kzO1Wf8dMW_44100_48_0.mp3" />
+      <file href="story_content/6OSC3GE4ErE_44100_48_0.mp3" />
+      <file href="story_content/6R0c2wV6x8q_44100_48_0.mp3" />
+      <file href="story_content/5bkOP08tUei_44100_48_0.mp3" />
+      <file href="mobile/5nvJI12y5aE.png" />
+      <file href="story_content/5a6PUx2D1P6_44100_48_0.mp3" />
+      <file href="story_content/6WdG09422CJ_44100_48_0.mp3" />
+      <file href="mobile/5z2YkoFzwdm.png" />
+      <file href="story_content/6Hxi5ZqQAKL_44100_48_0.mp3" />
+      <file href="story_content/62KHcuw91cQ_44100_48_0.mp3" />
+      <file href="mobile/6S1OAoDyz52_80.jpg" />
+      <file href="story_content/6E04ykgyzfI_44100_48_0.mp3" />
+      <file href="mobile/5UuKjQ95a8q_80.jpg" />
+      <file href="mobile/6XQmNppSJZD_80.jpg" />
+      <file href="mobile/5VGkPZHfx2B_80.jpg" />
+      <file href="story_content/62mAG7bJMnJ_44100_48_0.mp3" />
+      <file href="mobile/5rZ8MlbXGN7_80.jpg" />
+      <file href="mobile/6CKTQWkzK3v.png" />
+      <file href="story_content/6kIQH9QjijH_44100_48_0.mp3" />
+      <file href="story_content/6DoI1DIp2ZB_44100_48_0.mp3" />
+      <file href="story_content/6jjJE0JJjyX_44100_48_0.mp3" />
+      <file href="story_content/5u60mGu6a6I_44100_48_0.mp3" />
+      <file href="story_content/5fdYv9SCACF_44100_48_0.mp3" />
+      <file href="mobile/6Oh9mzDCf5K_P_0_0_2048_1619.png" />
+      <file href="mobile/5gaRnDVlL9T.png" />
+      <file href="mobile/5q7sarL3sFt.png" />
+      <file href="mobile/6XBMG201vYk.png" />
+      <file href="story_content/6fE88ARhxWu_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6TMOJq91Jfo.jpg" />
+      <file href="mobile/Slide6IVwf242ejo.jpg" />
+      <file href="mobile/Slide64JoWlwW7eW.jpg" />
+      <file href="mobile/Slide6kDoUPmiUin.jpg" />
+      <file href="mobile/Slide6BsDscuPXVu.jpg" />
+      <file href="mobile/Slide6hZmLXA8Jtw.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5d5phHfXnLQ.js" />
+      <file href="html5/data/js/5fZDBO9l9lR.js" />
+      <file href="html5/data/js/5lIys8clNVb.js" />
+      <file href="html5/data/js/5pG6og8Hdkh.js" />
+      <file href="html5/data/js/5qN9U5G1VbQ.js" />
+      <file href="html5/data/js/5xvdpGNdAZY.js" />
+      <file href="html5/data/js/5YNMPaeRV8e.js" />
+      <file href="html5/data/js/636ZmWzaTrj.js" />
+      <file href="html5/data/js/64WV7UaQQ1r.js" />
+      <file href="html5/data/js/6bGlQAM1teJ.js" />
+      <file href="html5/data/js/6DSJ2C81n2Z.js" />
+      <file href="html5/data/js/6iLCYpgfcKz.js" />
+      <file href="html5/data/js/6iUWOJR5vZL.js" />
+      <file href="html5/data/js/6KvVDJHyJKT.js" />
+      <file href="html5/data/js/6N8OYXWspi5.js" />
+      <file href="html5/data/js/6PM0MRDL4lG.js" />
+      <file href="html5/data/js/6SxgEVFqhxp.js" />
+      <file href="html5/data/js/6Uo3jPrf4sw.js" />
+      <file href="html5/data/js/6ZCKeLVzokQ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
